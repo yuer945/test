@@ -10,7 +10,7 @@ html {width: 100%;}
 .container .header .header-r .search{position: relative; width: 3.11rem; height: 0.46rem;  padding:0.09rem 0 0.16rem 0.42rem;}
 .container .header .header-r .search input{float: right; width: 2.52rem; height: 0.44rem; border:0.01rem solid #054c45; border-radius:0; } 
 .container .header .header-r .search i{float:right; width: 0.55rem; height: 0.46rem;  overflow: hidden;}
-.container .header .header-r .search i img{width: 100%; height: 100%; margin-top: -0.01rem;}
+.container .header .header-r .search i img{width: 100%; height: 100%;}
 .container .header .header-r .rel-wrap{width: 3.52rem; height: 0.57rem;}
 .container .header .header-r .rel-wrap .tel{float: right; padding-left: 0.02rem;}
 .container .header .header-r .rel-wrap .tel img{float: left; width: 0.28rem; height: 0.28rem; padding-top: 0.16rem;}
