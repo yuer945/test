@@ -1,8 +1,8 @@
 ﻿/*首页*/
 html {width: 100%;}
-.container{max-width:10rem; margin:  0 auto;}
+.container{/*max-width:10rem;*/ margin:  0 auto;}
 
-.container .header{/*max-width: 7.5rem;*/ height: 1.55rem; padding-top: 0.44rem; margin:0 auto;}
+.container .header{max-width: 7.5rem; height: 1.55rem; padding-top: 0.44rem; margin:0 auto;}
 .container .header .logo{float: left; width: 3.53rem; height: 1.23rem; }
 .container .header .logo img{width: 3.52rem; height: 0.66rem;}
 .container .header .logo p{font:normal 0.16rem "microsoft yahei"; height: 0.57rem; line-height: 0.57rem; text-align: right; padding-right: 0.15rem;}
